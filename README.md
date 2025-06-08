@@ -16,6 +16,8 @@ Meu nome é Leonardo e eu sou um apaixonado por tecnologia e sempre em busca de 
 ## 🧰 Tecnologias e Ferramentas
 
 ![Java](https://www.vecteezy.com/png/22100214-java-logo-transparent-png)
+![Java](https://www.vecteezy.com/png/22100214-java-logo-transparent-png)
+![Java](https://img.shields.io/badge/www.vecteezy.com/png/22100214-java-logo-transparent-png?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
