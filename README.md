@@ -1,7 +1,7 @@
 # Olá, sou o Leonardo! 👋
 Eu sou um apaixonado por tecnologia e sempre em busca de novos desafios.
 
-- 🔭 Atualmente Residência SERRATEC - TIC/Software desenvolvedor FullStack.
+- 🔭 Atualmente estou me dedicando exclusivamente a Residência SERRATEC - TIC/Software desenvolvedor FullStack.
 - 🌱 Estudando com foco em Java, React e PostgreSQL.
 - 🎯 Objetivo: transição de carreira para tecnologia com propósito e impacto.
 
