@@ -1,5 +1,5 @@
-# Olá, sou o Leonardo! 👋
-Eu sou um apaixonado por tecnologia e sempre em busca de novos desafios.
+# Olá! 👋
+Meu nome é Leonardo e eu sou um apaixonado por tecnologia e sempre em busca de novos desafios.
 
 - 🔭 Atualmente estou me dedicando exclusivamente a Residência SERRATEC - TIC/Software desenvolvedor FullStack.
 - 🌱 Estudando com foco em Java, React e PostgreSQL.
